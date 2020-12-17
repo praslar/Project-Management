@@ -18,7 +18,7 @@
     "dependencies": {
         "axios": "^0.19.0",
         "babel-runtime": "^5.8.0",
-        "datatables.net": "^1.10.19",
+        "datatables.net": "^1.10.22",
         "datatables.net-bs": "^1.10.19",
         "gantt-elastic": "https://github.com/praslar/gantt-elastic-vue/tarball/master/WorkLoad",
         "gantt-elastic-header": "^0.1.11",

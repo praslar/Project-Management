@@ -2205,10 +2205,17 @@ datatables.net-bs@^1.10.19:
     datatables.net "1.10.19"
     jquery ">=1.7"
 
-datatables.net@1.10.19, datatables.net@^1.10.19:
+datatables.net@1.10.19:
   version "1.10.19"
   resolved "https://registry.yarnpkg.com/datatables.net/-/datatables.net-1.10.19.tgz#97a1ed41c85e62d61040603481b59790a172dd1f"
   integrity sha512-+ljXcI6Pj3PTGy5pesp3E5Dr3x3AV45EZe0o1r0gKENN2gafBKXodVnk2ypKwl2tTmivjxbkiqoWnipTefyBTA==
+  dependencies:
+    jquery ">=1.7"
+
+datatables.net@^1.10.22:
+  version "1.10.22"
+  resolved "https://registry.yarnpkg.com/datatables.net/-/datatables.net-1.10.22.tgz#975d4ffb1eb40dec5fb772eaf93796ec1a948b55"
+  integrity sha512-ujn8GvkQIBYzYH54XY7OrI0Zb35TKRd9ABYfbnXgBfwTGIFT6UsmXrfHU5Yk+MSDoF0sDu2TB+31V6c+zUZ0Pw==
   dependencies:
     jquery ">=1.7"
 
@@ -3555,14 +3562,6 @@ gantt-elastic-header@^0.1.11:
 "gantt-elastic@https://github.com/praslar/gantt-elastic-vue/tarball/master/WorkLoad":
   version "1.0.6"
   resolved "https://github.com/praslar/gantt-elastic-vue/tarball/master/WorkLoad#6f6976c6ae1d546b4a68349971c28952faa18945"
-  dependencies:
-    dayjs "^1.8.16"
-    resize-observer-polyfill "^1.5.1"
-    vue "^2.6.10"
-
-"gantt-elastic@https://github.com/praslar/gantt-elastic-vue/tarball/master/merged":
-  version "1.0.6"
-  resolved "https://github.com/praslar/gantt-elastic-vue/tarball/master/merged#351e7180aff195ebf9e7c22542d30d20b28c531a"
   dependencies:
     dayjs "^1.8.16"
     resize-observer-polyfill "^1.5.1"
